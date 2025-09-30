@@ -1,17 +1,16 @@
 <h1 align="center">Hi,
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" > I'm Mohammed Khaled</h1>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" > I'm Mariam Magdy</h1>
 <h3 align="center">I'm a computer science student.</h3>
 
 <img align='right' src="https://media.giphy.com/media/6xpBQeimnN5QKT29oQ/giphy.gif" width="230">
 
 
 ### :man_technologist: About Me :
-I'm mariam magdy fayez a junior software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I'm Mariam Magdy Fayez a junior software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 from cairo, Egypt I develop website using html,css,js ,React js
 I am a Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
-- 💻 I’m a student at faculty of science, Alexandria University, software industry and multimedia department (SIM).
+- 💻 I’m a student at faculty of science, Cairo University, Computer System
 
-- 🌱 I’m currently learning **Flutter**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mariam932](https://github.com/mariam932)
 
@@ -22,7 +21,7 @@ I am a Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTG
 
 <!--  - [![Linkedin Badge](https://img.shields.io/badge/-linkedln-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-khaled-907315190/) -->
 
-- 📫 How to contact me: **mk840166@gmail.com**
+- 📫 How to contact me: **mariammagdyfayez@gmail.com**
 
 ### :hammer_and_wrench: Languages and Tools :
 
