@@ -1,6 +1,6 @@
 <h1 align="center">Hi,
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" > I'm Mariam Magdy</h1>
-<h3 align="center">I'm a computer science student.</h3>
+<h3 align="center">I am a computer science graduate.</h3>
 
 <img align='right' src="https://media.giphy.com/media/6xpBQeimnN5QKT29oQ/giphy.gif" width="230">
 
@@ -8,16 +8,16 @@
 ### :man_technologist: About Me :
 I'm Mariam Magdy Fayez a junior software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 from cairo, Egypt I develop website using html,css,js ,React js
-I am a Frontend developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
+ <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
 - 💻 I’m a student at faculty of science, Cairo University, Computer System
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/mariam932](https://github.com/mariam932)
 
  - :mailbox: How to reach me: 
-</a> <a href="" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
+</a> 
 
-</a> <a href="http://linkedin.com/in/mariam-magdy-767a48259" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+ <a href="http://linkedin.com/in/mariam-magdy-767a48259" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 
 <!--  - [![Linkedin Badge](https://img.shields.io/badge/-linkedln-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-khaled-907315190/) -->
 
