@@ -7,7 +7,7 @@
 
 ### :man_technologist: About Me :
 I'm Mariam Magdy Fayez a junior software engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-from cairo, Egypt I develop website using html,css,js ,React js
+from cairo, Egypt I develop websites using html,css,js ,React js
  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Egypt.
 - 💻 I am a computer science graduate, Ain Shams University, Computer System
 
